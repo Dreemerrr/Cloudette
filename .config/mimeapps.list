@@ -1,0 +1,12 @@
+[Default Applications]
+application/x-zerosize=nvim.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+text/plain=code.desktop
+
+[Added Associations]
+application/x-zerosize=nvim.desktop;
+text/plain=code-oss.desktop;code.desktop;
